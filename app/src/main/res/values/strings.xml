@@ -21,4 +21,6 @@
     <string name="plusMinus">±</string>
     <string name="point">.</string>
     <string name="equal">=</string>
+
+    <string name="display">0</string>
 </resources>
